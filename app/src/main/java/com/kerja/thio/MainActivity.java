@@ -258,6 +258,7 @@ public class MainActivity extends AppCompatActivity {
                 saveWebSession();
                 updateNavigationSelection(url);
                 injectFcmToken();
+                requestNotificationPermissionIfNeeded();
             }
 
             @Override
