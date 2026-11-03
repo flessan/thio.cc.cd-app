@@ -11,7 +11,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: android-ci-\${{ github.ref }}
+  group: android-ci-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -82,7 +82,7 @@ jobs:
       - name: Upload Android artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: kerja-android-\${{ github.run_number }}
+          name: kerja-android-${{ github.run_number }}
           path: dist/*
           if-no-files-found: error
           retention-days: 30
