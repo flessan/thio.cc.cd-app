@@ -397,7 +397,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void handleWebPermissionRequest(PermissionRequest request) {
-        if (!isTrustedOrigin(request.getOrigin())) {
+        if (request.getOrigin() == null || !isTrustedOrigin(request.getOrigin().toString())) {
             request.deny();
             return;
         }
