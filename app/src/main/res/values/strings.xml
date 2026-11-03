@@ -1,4 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Kerja</string>
+    <string name="nav_workspace">Workspace</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_blog">Blog</string>
+    <string name="nav_support">Support</string>
+    <string name="refresh">Refresh</string>
+    <string name="share">Share</string>
+    <string name="share_page">Share page</string>
+    <string name="open_in_browser">Open in browser</string>
+    <string name="notification_settings">Notification settings</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="connection_error_title">You are offline</string>
+    <string name="connection_error_message">Check your internet connection and try loading your workspace again.</string>
+    <string name="server_error_title">The service is temporarily unavailable</string>
+    <string name="server_error_message">The Kerja service did not respond correctly. Please try again in a moment.</string>
+    <string name="secure_connection_error_title">Secure connection failed</string>
+    <string name="secure_connection_error_message">The website certificate could not be verified. The connection was blocked to protect your data.</string>
+    <string name="retry">Try again</string>
+    <string name="file_picker_unavailable">Unable to open the file picker.</string>
+    <string name="link_unavailable">This link cannot be opened on this device.</string>
+    <string name="download_in_progress">Downloading from Kerja</string>
+    <string name="download_started">Download started</string>
+    <string name="download_failed">Unable to start the download.</string>
+    <string name="notifications_title">Stay up to date</string>
+    <string name="notifications_message">Allow Kerja to send notifications about workspace activity and important updates. You can change this permission in Android settings.</string>
+    <string name="allow">Allow</string>
+    <string name="not_now">Not now</string>
+    <string name="notification_channel_name">Kerja updates</string>
+    <string name="notification_channel_description">Workspace activity and important updates</string>
 </resources>

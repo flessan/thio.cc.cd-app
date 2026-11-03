@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#E00000</color>
-    <color name="colorPrimaryDark">#c20000</color>
-    <color name="colorAccent">#ec4899</color>
-    <color name="splash_background">#E00000</color>
-    <color name="status_bar_color">#FF3636</color>
-    <color name="loading_bar_color">#FFFFFF</color>
-    <color name="white">#FFFFFF</color>
-    <color name="black">#000000</color>
+    <color name="colorPrimary">#B3261E</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#765650</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorSurface">#FFF8F7</color>
+    <color name="colorOnSurface">#201A19</color>
+    <color name="colorSurfaceContainer">#F5EDEA</color>
+    <color name="colorOnSurfaceVariant">#514442</color>
+    <color name="colorOutline">#857370</color>
+    <color name="status_bar_color">#FFF8F7</color>
+    <color name="navigation_bar_color">#FFF8F7</color>
+    <color name="loading_bar_color">#B3261E</color>
+    <color name="nav_unselected">#6D625F</color>
+    <color name="error_tint">#B3261E</color>
+    <color name="splash_background">#B3261E</color>
 </resources>
