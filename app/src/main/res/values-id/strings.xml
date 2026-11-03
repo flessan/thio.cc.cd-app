@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kerja</string>
+    <string name="nav_workspace">Ruang kerja</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_blog">Blog</string>
+    <string name="nav_support">Bantuan</string>
+    <string name="refresh">Muat ulang</string>
+    <string name="share">Bagikan</string>
+    <string name="share_page">Bagikan halaman</string>
+    <string name="open_in_browser">Buka di browser</string>
+    <string name="notification_settings">Pengaturan notifikasi</string>
+    <string name="privacy_policy">Kebijakan privasi</string>
+    <string name="connection_error_title">Kamu sedang offline</string>
+    <string name="connection_error_message">Periksa koneksi internet, lalu coba muat ulang ruang kerjamu.</string>
+    <string name="server_error_title">Layanan sedang tidak tersedia</string>
+    <string name="server_error_message">Layanan Kerja belum merespons dengan benar. Coba lagi beberapa saat.</string>
+    <string name="secure_connection_error_title">Koneksi aman gagal</string>
+    <string name="secure_connection_error_message">Sertifikat situs tidak dapat diverifikasi. Koneksi diblokir demi melindungi datamu.</string>
+    <string name="retry">Coba lagi</string>
+    <string name="file_picker_unavailable">Pemilih berkas tidak dapat dibuka.</string>
+    <string name="link_unavailable">Tautan ini tidak dapat dibuka di perangkat.</string>
+    <string name="download_in_progress">Mengunduh dari Kerja</string>
+    <string name="download_started">Unduhan dimulai</string>
+    <string name="download_failed">Unduhan tidak dapat dimulai.</string>
+    <string name="notifications_title">Jangan lewatkan pembaruan</string>
+    <string name="notifications_message">Izinkan Kerja mengirim notifikasi aktivitas ruang kerja dan pembaruan penting. Izin ini dapat diubah melalui pengaturan Android.</string>
+    <string name="allow">Izinkan</string>
+    <string name="not_now">Nanti</string>
+    <string name="notification_channel_name">Pembaruan Kerja</string>
+    <string name="notification_channel_description">Aktivitas ruang kerja dan pembaruan penting</string>
+</resources>

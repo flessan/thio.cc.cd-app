@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFB4AB</color>
+    <color name="colorOnPrimary">#690005</color>
+    <color name="colorSecondary">#E7BDB6</color>
+    <color name="colorOnSecondary">#442926</color>
+    <color name="colorSurface">#201A19</color>
+    <color name="colorOnSurface">#F1DFDC</color>
+    <color name="colorSurfaceContainer">#2B2221</color>
+    <color name="colorOnSurfaceVariant">#D8C2BE</color>
+    <color name="colorOutline">#A08C89</color>
+    <color name="status_bar_color">#201A19</color>
+    <color name="navigation_bar_color">#201A19</color>
+    <color name="loading_bar_color">#FFB4AB</color>
+    <color name="nav_unselected">#B9AAA7</color>
+    <color name="error_tint">#FFB4AB</color>
+    <color name="splash_background">#B3261E</color>
+</resources>
